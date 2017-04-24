@@ -78,7 +78,7 @@ int main(){
     ptr=p1;
     
     std::cout<<"이름: "<< p1->name <<std::endl;
-    std::cout<<"나이: "<< p1->age <<std::endl;
+    std::cout<<"나이: "<< p1->age <<std::endl; // git test
     
     delete[] p1;
     
